@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/1019/525/246/xbox-one-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .main3{
+    border: solid purple;
+    height: 500px;
+    width: 200px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px black;
+  }
+  .m li,
+  .m{
+    display: block;
+    margin-top: 10px;
+    transform: scale(0.9);
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+  }
+  .m li:hover{
+    transform: scale(1);
+  }
+  .m li{
+    border: solid purple;
+    border-radius: 12px;
+    padding: 40px;
+  }
+  #a,
+  #b,
+  #c,
+  #d{
+    width: 30px;
+    transform: scale(0.9);
+  }
+  #a:hover{
+    transform: scale(1);
+  }
+  #b {
+    margin-left: 750px;
+  }
+  #b:hover{
+    transform: scale(1);
+  }
+  #c{
+    margin-left: -90px;
+  }
+  #c:hover{
+    transform: scale(1);
+  }
+  #d:hover{
+      transform: scale(1);
+  }
+  #d{
+    margin-left: -70px;
+  }
+  .main2{
+    border: solid black;
+  }
+  #mar a{
+      word-wrap: no-wrap;
+      text-decoration: none;
+      color: black;
+  }
